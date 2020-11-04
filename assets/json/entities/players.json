@@ -1,0 +1,26 @@
+{
+    "root": {
+        "grey_moses": {
+            "id": "grey_moses",
+            "hp": 700,
+            "movementSpeed": 8,
+            "physical_attack_time": 1000,
+            "armor": "vest_mtv",
+            "primary_weapon": "masada",
+            "secondary_weapon": "grenade_launcher",
+            "character_texture": "game/textures/characters/texture_grey_moses.png",
+            "character_face_texture": "game/hud/face_grey_moses.png"
+        },
+        "striker": {
+            "id": "striker",
+            "hp": 500,
+            "movementSpeed": 10,
+            "physical_attack_time": 1000,
+            "armor": "vest_light",
+            "primary_weapon": "m4a2",
+            "secondary_weapon": "grenade_launcher",
+            "character_texture": "game/textures/characters/texture_striker.png",
+            "character_face_texture": "game/hud/face_striker.png"
+        }
+    }
+}

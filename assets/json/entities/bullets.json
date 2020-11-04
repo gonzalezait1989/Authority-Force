@@ -1,0 +1,34 @@
+{
+    "root": {
+        "standard_bullet": {
+        	"bullet_speed": 650,
+        	"damage": 100,
+           	"range": 500
+        },
+        "fast_bullet": {
+        	"bullet_speed": 1000,
+        	"damage": 100,
+        	"range": 500
+        },
+        "heavy_bullet": {
+        	"bullet_speed": 500,
+        	"damage": 100,
+        	"range": 500
+        },
+        "m203_bullet": {
+        	"bullet_speed": 500,
+        	"damage": 500,
+        	"range": 500
+        },
+        "boss_bullet": {
+           	"bullet_speed": 400,
+           	"damage": 100,
+            "range": 200
+        },
+        "physic_attack_bullet":  {
+           	"bullet_speed": 400,
+           	"damage": 50,
+            "range": 70
+        }
+    }
+}

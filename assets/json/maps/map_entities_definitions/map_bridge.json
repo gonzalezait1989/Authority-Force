@@ -1,0 +1,135 @@
+{
+    "root": {
+        "player_initial_posX" : 500,
+		"player_initial_posY" : 400,
+    	"level_start": [
+    		{
+                "name": "map_bridge",
+                "armors": [{
+                        "id": "vest_light",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vest_mtv",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }],
+                "bonus_items": [],
+                "enemies": [],
+                "weapons": [
+                    {
+                        "id": "m4a2",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "grenade_launcher",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "masada",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+    	],
+        "190.0x467.0": [
+            {
+                "name": "map_city",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [],
+                "weapons": [
+                    {
+                        "id": "m24",
+                        "positions": [
+                            {
+                                "posX": 300,
+                                "posY": 1550
+                            }
+                        ]
+                    },
+                    {
+                        "id": "mp5",
+                        "positions": [
+                            {
+                                "posX": 625,
+                                "posY": 1550
+                            }
+                        ]
+                    },
+                    {
+                        "id": "m249",
+                        "positions": [
+                            {
+                                "posX": 950,
+                                "posY": 1550
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1313.0x1185.0": [
+            {
+                "name": "map_city",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1800,
+                                "posY": 1600
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                    {
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

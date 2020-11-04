@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_07" class="java.beans.XMLDecoder">
+ <object class="com.horstmann.violet.ClassDiagramGraph">
+  <void method="addNode">
+   <object class="com.horstmann.violet.ClassNode">
+    <void property="attributes">
+     <void property="text">
+      <string>music_path : Stirng
+weapon_sounds: String
+_ id_weapons : String
+_ sound_path : String
+armor_sounds: String
+_ id_armor : String
+_ sound_path : String
+enemy_sounds: String
+_ id_enemy : String
+_ sound_path : String
+bonus_item_sounds: String
+_ id_bonus_item : String
+_ sound_path : String
+
+</string>
+     </void>
+    </void>
+    <void property="name">
+     <void property="text">
+      <string>Sound</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double" id="Point2D$Double0">
+    <void class="java.awt.geom.Point2D$Double" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Point2D$Double0">
+       <void class="java.awt.geom.Point2D$Double" method="getField">
+        <string>y</string>
+        <void method="set">
+         <object idref="Point2D$Double0">
+          <void method="setLocation">
+           <double>224.0</double>
+           <double>140.0</double>
+          </void>
+         </object>
+         <double>140.0</double>
+        </void>
+       </void>
+      </object>
+      <double>224.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object class="com.horstmann.violet.ClassNode">
+    <void property="attributes">
+     <void property="text">
+      <string>tmx_file : String
+tmx_image : String
+character_objects : String
+_ bitmap_size_x ; Integer
+_ bitmap_size_y : Integer
+_ textures: String
+__ id_texture : String
+__ file_paht : String
+enemies : String 
+_ bitmap_size_x ; Integer
+_ bitmap_size_y : Integer
+_ textures: String
+__ id_texture : String
+__ file_path: String
+__ column : Integer
+__ row : Integer
+
+</string>
+     </void>
+    </void>
+    <void property="name">
+     <void property="text">
+      <string>Texture</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double" id="Point2D$Double1">
+    <void class="java.awt.geom.Point2D$Double" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Point2D$Double1">
+       <void class="java.awt.geom.Point2D$Double" method="getField">
+        <string>y</string>
+        <void method="set">
+         <object idref="Point2D$Double1">
+          <void method="setLocation">
+           <double>442.0</double>
+           <double>141.0</double>
+          </void>
+         </object>
+         <double>141.0</double>
+        </void>
+       </void>
+      </object>
+      <double>442.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object class="com.horstmann.violet.ClassNode">
+    <void property="attributes">
+     <void property="text">
+      <string>id: String
+player_initial_pos_x : Integer
+player_initial_pos y : Integer
+coordinates : String
+_ id_weapons : String
+__ id_weapon : String
+__ position : String
+_ id_armors : String
+__ id_armor : String
+__ position : String
+_ id_bonus_items : String
+__ id_bonus_item : String
+__ position : String
+_ id_enemies : String
+__ id_enemy : String
+__ position : String
+</string>
+     </void>
+    </void>
+    <void property="name">
+     <void property="text">
+      <string>Map Definition</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double" id="Point2D$Double2">
+    <void class="java.awt.geom.Point2D$Double" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Point2D$Double2">
+       <void class="java.awt.geom.Point2D$Double" method="getField">
+        <string>y</string>
+        <void method="set">
+         <object idref="Point2D$Double2">
+          <void method="setLocation">
+           <double>662.0</double>
+           <double>139.0</double>
+          </void>
+         </object>
+         <double>139.0</double>
+        </void>
+       </void>
+      </object>
+      <double>662.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

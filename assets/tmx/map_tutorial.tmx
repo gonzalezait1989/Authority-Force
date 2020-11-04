@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="32" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="Tutorial" tilewidth="64" tileheight="64">
+  <image source="gfx/game/maps/map_tutorial.png" trans="ff00ff" width="1024" height="832"/>
+ </tileset>
+ <layer name="map" width="32" height="32">
+  <properties>
+   <property name="map" value="true"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA73XyWsUQRTH8VZD7lEJoowXJUbFICgxKIYGF0QxIC4Zl4sHPagzc3HBZRz3fQzuawzu+3J19+run+S3oR7zeFT19Eyihw/TVf26f1VdNVtLFEUtI2wURrvXRFuKGBOcwziCo1jk6QvVLcYqdy5WuXoMIUn9EizFBVzEJazGNNM33bF1a7AZne5+bQ3mr8U63MU93Mc89Ji+npQ+oeefZa2S+i3Yin7ksV699geO86qt+3V+crwTu7Abe4zYmYhJmIyce5W+XEpfztMn+bK3juE4TuAkTrnsvSp/BmaiC7Mc6ZN2l6fPV2fnfxlXcBXXcN21T6v8+ViAXix0pE/avZ4+X53Nf4CHeITHeIJluKHyl2MF+rDSkT5p93n6fHV2f+VTSP5gRgVFtw+igkNR7TNClKPa3pC6svMv8juNgsrLml9VfNllQ+fbzwNfXSj/DoZQxFM8w3O8wEu8wmu8MWPU+XaNS27MRXUs0vLf4h3e4wM+4hM+44tnXQbcGCrmuBSYe9r8k9qv+Ibv+IGf+IXf+GPy9fNNnsd5M4aqORY237fWvudWUGMdUPeT3KJTUe2Sq9c5km+z0vaMkHz7/GKVP6TWs+TJaQ3k15u7Pmevjz1jDrXbXX29Ojt3fS65fgM2YpNryzrYdbHtDldfr67qIeeS67dhO3a4tqyN3de23e1Zv7TrBj3nkuv3YT8ORLXfP1mNRP4ZnMU5T37a70/5jhxu/k3cwu1Afr3ff8PNt++HZvLlfvb9H9r30rbf960NZCdmB+7r2/O+98R4o73B/DiQ73vmvjWZanT85/y5RnfGXDEmkN/IPRr5v2XrxwXWtZHPEDE2Y51kJ6YEnmsz82/GnEB+M/Nvxl/En8s4ABAAAA==
+  </data>
+ </layer>
+ <layer name="cross" width="32" height="32">
+  <properties>
+   <property name="cross" value="true"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3TMQqAQAxE0RTuDdReUXtFt1bvfygnhSBiEZBkm3nwSZkiRISIiIjov8qYl9qYl8GYl9UY0Zf0KvqHdyn7w7q/5A/r/sgfvm+ZHjOS3rFDPWpQG7xf7zijBY1oCt6vdzzQiTaUA3dfTIlB8QAQAAA=
+  </data>
+ </layer>
+ <objectgroup name="collision" width="40" height="33">
+  <properties>
+   <property name="collision" value="true"/>
+  </properties>
+  <object name="collision" x="1340" y="1027" width="3" height="259">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="327" y="1793" width="702" height="3">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="58" y="155" width="4" height="1892">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="64" y="2044" width="256" height="3">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="322" y="1794" width="3" height="254">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1345" y="1282" width="643" height="3">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1985" y="437" width="1" height="842">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1729" y="326" width="127" height="129">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1537" y="327" width="189" height="119">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1535" y="447" width="27" height="25">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1531" y="473" width="4" height="101">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1155" y="505" width="125" height="5">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="416" y="380" width="94" height="170">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1026" y="1026" width="60" height="2">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1282" y="573" width="253" height="194">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="737" y="377" width="94" height="170">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1058" y="379" width="94" height="170">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="97" y="376" width="94" height="170">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1281" y="161" width="4" height="410">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1856" y="327" width="74" height="123">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1931" y="327" width="57" height="136">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1283" y="1025" width="60" height="2">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1282" y="1025" width="3" height="325">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1083" y="1025" width="3" height="324">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1026" y="1025" width="3" height="826">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="833" y="504" width="223" height="4">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="512" y="504" width="223" height="4">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="194" y="505" width="223" height="4">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="64" y="509" width="31" height="2">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="66" y="155" width="1215" height="4">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1140" y="1209" width="89" height="152">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="386" y="770" width="509" height="190">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1085" y="1345" width="55" height="4">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+  <object name="collision" x="1231" y="1345" width="55" height="4">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="trigger" width="32" height="32">
+  <properties>
+   <property name="trigger" value="true"/>
+  </properties>
+  <object name="trigger" x="39" y="1573" width="318" height="25">
+   <properties>
+    <property name="trigger" value="true"/>
+   </properties>
+  </object>
+  <object name="trigger" x="1281" y="704" width="58" height="360">
+   <properties>
+    <property name="trigger" value="true"/>
+   </properties>
+  </object>
+  <object name="trigger" x="1521" y="442" width="489" height="83">
+   <properties>
+    <property name="end" value="true"/>
+    <property name="trigger" value="true"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

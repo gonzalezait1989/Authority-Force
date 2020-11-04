@@ -1,0 +1,40 @@
+{
+    "root": {
+        "m4a2": {
+            "bulletsLeft": 30,
+            "bullet_id":"standard_bullet"
+        },
+        "masada": {
+            "bulletsLeft": 30,
+            "bullet_id":"standard_bullet"
+        },
+        "mp5": {
+            "bulletsLeft": 70,
+            "bullet_id":"fast_bullet"
+        },
+        "m249": {
+            "bulletsLeft": 100,
+            "bullet_id":"fast_bullet"
+        },
+        "m1911": {
+            "bulletsLeft": 5,
+            "bullet_id":"standard_bullet"
+        },
+        "m24": {
+            "bulletsLeft": 5,
+            "bullet_id":"heavy_bullet"
+        },
+        "grenade_launcher": {
+            "bulletsLeft": 5,
+            "bullet_id":"m203_bullet"
+        },
+        "knife": {
+        	"bulletsLeft": 0,
+            "bullet_id":"physic_attack_bullet"
+        }, 
+        "ak47": {
+        	"bulletsLeft": 0,
+            "bullet_id":"boss_bullet"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "root": {
+        "infected": {
+            "hp": 300,
+            "movementSpeed": 1,
+            "physical_attack_time": 1000,
+            "givenScore": 200,
+            "weapon": "knife"
+        },
+        "boss":{
+        	"hp": 700,
+        	"movementSpeed": 3,
+        	"physical_attack_time": 1000,
+            "givenScore": 1000,
+            "weapon": "ak47"
+        }
+    }
+}

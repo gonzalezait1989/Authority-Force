@@ -1,0 +1,16 @@
+{
+    "root": {
+        "vest_light": {
+            "hitsLeft": 5,
+            "damageReductionBonus": 1.5
+        },
+        "vest_tactical": {
+            "hitsLeft": 10,
+            "damageReductionBonus": 2
+        },
+        "vest_mtv": {
+            "hitsLeft": 15,
+            "damageReductionBonus": 3
+        }
+    }
+}

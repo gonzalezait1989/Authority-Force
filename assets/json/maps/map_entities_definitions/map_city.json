@@ -1,0 +1,639 @@
+{
+    "root": {
+        "player_initial_posX": 780,
+        "player_initial_posY": 400,
+        "level_start": [
+            {
+                "name": "map_city",
+                "armors": [
+                    {
+                        "id": "vest_light",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vest_mtv",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ],
+                "bonus_items": [],
+                "enemies": [],
+                "weapons": [
+                    {
+                        "id": "m4a2",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "grenade_launcher",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "masada",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1202.0x701.0": [
+            {
+                "name": "map_city",
+                "armors": [
+                    {
+                        "id": "vest_mtv",
+                        "positions": [
+                            {
+                                "posX": 1454,
+                                "posY": 1562
+                            }
+                        ]
+                    }
+                ],
+                "bonus_items": [
+                    {
+                        "id": "small_healthpack",
+                        "positions": [
+                            {
+                                "posX": 834,
+                                "posY": 2321
+                            }
+                        ]
+                    },
+                    {
+                        "id": "small_healthpack",
+                        "positions": [
+                            {
+                                "posX": 1460,
+                                "posY": 3353
+                            }
+                        ]
+                    },
+                    {
+                        "id": "big_healthpack",
+                        "positions": [
+                            {
+                                "posX": 1300,
+                                "posY": 4565
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ammo",
+                        "positions": [
+                            {
+                                "posX": 1660,
+                                "posY": 6985
+                            }
+                        ]
+                    }
+                ],
+                "enemies": [
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 850,
+                                "posY": 1197
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1314,
+                                "posY": 1554
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 906,
+                                "posY": 1669
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1140,
+                                "posY": 1777
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                    {
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "m249",
+                        "positions": [
+                            {
+                                "posX": 1466,
+                                "posY": 1130
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "11310.0x1164.0": [
+            {
+                "name": "map_city",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1118,
+                                "posY": 2674
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1376,
+                                "posY": 3894
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 756,
+                                "posY": 2805
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1264,
+                                "posY": 2870
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                    {
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1220.0x1860.0": [
+            {
+                "name": "map_city",
+                "armors": [
+                    {
+                        "id": "vest_light",
+                        "positions": [
+                            {
+                                "posX": 946,
+                                "posY": 4569
+                            }
+                        ]
+                    }
+                ],
+                "bonus_items": [],
+                "enemies": [
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1376,
+                                "posY": 3894
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1372,
+                                "posY": 4049
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1374,
+                                "posY": 4190
+                            }
+                        ]
+                    },
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 862,
+                                "posY": 4514
+                            }
+                        ]
+                    },
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 1258,
+                                "posY": 4514
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                    {
+                        "id": "m24",
+                        "positions": [
+                            {
+                                "posX": 1156,
+                                "posY": 4566
+                            }
+                        ]
+                    },
+                    {
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1196.0x3000.0": [
+            {
+                "name": "map_city",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 966,
+                                "posY": 5815
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1184,
+                                "posY": 5185
+                            }
+                        ]
+                    },
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 1128,
+                                "posY": 5434
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                    {
+                        "id": "mp5",
+                        "positions": [
+                            {
+                                "posX": 1454,
+                                "posY": 5593
+                            }
+                        ]
+                    },
+                    {
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1212.0x4672.0": [
+            {
+                "name": "map_city",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 900,
+                                "posY": 6005
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1068,
+                                "posY": 5997
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1248,
+                                "posY": 6005
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                    {
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1206.0x5329.0": [
+            {
+                "name": "map_city",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1492,
+                                "posY": 6425
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1252,
+                                "posY": 6577
+                            }
+                        ]
+                    },
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 1014,
+                                "posY": 6885
+                            }
+                        ]
+                    },
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 832,
+                                "posY": 6414
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                    {
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1227.0x5889.0": [
+            {
+                "name": "map_city",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 988,
+                                "posY": 7245
+                            }
+                        ]
+                    },
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 1144,
+                                "posY": 7242
+                            }
+                        ]
+                    },
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 1290,
+                                "posY": 7238
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                    {
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1196.0x6738.0": [
+            {
+                "name": "map_city",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 1004,
+                                "posY": 7053
+                            }
+                        ]
+                    },
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 1198,
+                                "posY": 7049
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                    {
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1188.0x7340.0": [
+            {
+                "name": "map_city",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [],
+                "weapons": []
+            }
+        ]
+    }
+}

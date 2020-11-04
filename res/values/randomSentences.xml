@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="randomSentencesArray">
+
+        <!-- FAMOUS PHRASES -->
+        <!-- Adolf Hitler -->
+        <item>Cuando se inicia y desencadena una guerra lo que importa no es tener la razón, sino conseguir la victoria.\nAdolf Hitler (1889&#8211;1945) Presidente y canciller de Alemania</item>
+        <item>Quizás la más grande y mejor lección de la historia es que nadie aprendió las lecciones de la historia.\nAdolf Hitler (1889&#8211;1945) Presidente y canciller de Alemania</item>
+        <item>¡Dios sabe que yo quise la paz!\nAdolf Hitler (1889&#8211;1945) Presidente y canciller de Alemania</item>
+        <item>Ante Dios y el mundo, el más fuerte tiene el derecho de hacer prevalecer su voluntad.\nAdolf Hitler (1889&#8211;1945) Presidente y canciller de Alemania</item>
+        <item>Con humanidad y democracia nunca han sido liberados los pueblos.\nAdolf Hitler (1889&#8211;1945) Presidente y canciller de Alemania</item>
+        <item>La fuerza no reside en la defensa, sino en el ataque.\nAdolf Hitler (1889&#8211;1945) Presidente y canciller de Alemania</item>
+        <item>Al vencedor nunca se le preguntará si dijo la verdad.\nAdolf Hitler (1889&#8211;1945) Presidente y canciller de Alemania</item>
+        <item>Esos estúpidos &#8230; gracias a Dios, ¡por fin han desembarcado!\nAdolf Hitler (1889&#8211;1945) Presidente y canciller de Alemania</item>
+        <!-- Albret Einstein -->
+        <item>No sé con qué armas se luchara en la tercera Guerra Mundial, pero sí sé con cuáles lo harán en la cuarta Guerra Mundial: Palos y mazas.\nAlbert Einstein (1879&#8211;1955) Científico alemán nacionalizado estadounidense</item>
+        <item>Si hubiera sabido esto, me habría dedicado a la relojería.\nAlbert Einstein (1879&#8211;1955) Científico alemán nacionalizado estadounidense</item>
+        <item>La vida es muy peligrosa. No por las personas que hacen el mal, sino por las que se sientan a ver lo que pasa.\nAlbert Einstein (1879&#8211;1955) Científico alemán nacionalizado estadounidense</item>
+        <!-- Anónimo -->
+        <item>Tu compañero es esencial para tu supervivencia, le da al enemigo, un blanco mas al que disparar.\nAnónimo</item>
+        <item>Si tu ataque va bien, vas directo a una emboscada.\nAnónimo</item>
+        <item>El fuego amigo no existe.\nAnónimo</item>
+        <item>Las trazadoras funcionan en ambas direcciones.\nAnónimo</item>
+        <item>Si el enemigo está a tiro, tu también lo estás.\nAnónimo</item>
+        <item>Tu equipo está hecho por la empresa que ofertó mas bajo en el contrato.\nAnónimo</item>
+        <!-- Benjamin Franklin -->
+        <item>Nunca existió una buena guerra ni una mala paz.\nBenjamin Franklin (1706&#8211;1790) Político, científico e inventor estadounidense</item>
+        <!-- Bob Marley -->
+        <item>Las guerras seguirán mientras el color de la piel siga siendo más importante que el de los ojos.\nBob Marley (1945&#8211;1981) Músico, guitarrista y compositor jamaicano</item>
+        <!-- Cicerón -->
+        <item>Preferiría la paz más injusta a la más justa de las guerras.\nCicerón (106a.c&#8211;43a.c.) Jurista, político, filósofo, escritor y orador romano</item>
+        <item>Las leyes guardan silencio cuando suenan las armas.\nCicerón (106a.c&#8211;43a.c.) Jurista, político, filósofo, escritor y orador romano</item>
+        <!-- Douglas MacArthur -->
+        <item>No se están retirando. Estamos avanzando en otra dirección.\nDouglas MacArthur (1880&#8211;1964) General del Ejército de los Estados Unidos</item>
+        <item>Sólo aquellos están en condiciones de vivir que no tienen miedo a morir.\nDouglas MacArthur (1880&#8211;1964) General del Ejército de los Estados Unidos</item>
+        <item>Nunca de órdenes que no puedan ser obedecidas.\nDouglas MacArthur (1880&#8211;1964) General del Ejército de los Estados Unidos</item>
+        <!-- Flavio Vegecio -->
+        <item>Si vis pacem, para bellum. (Si quieres la paz, prepara la guerra)\nFlavio Vegecio Escritor del Imperio romano del siglo IV</item>
+        <!-- George Washington -->
+        <item>Estar preparados para la guerra es uno de los medios más eficaces para conservar la paz.\nGeorge Washington (1732&#8211;1799) Primer Presidente de los Estados Unidos</item>
+        <!-- Georgi Zhukov -->
+        <item>Tenemos más hombres que ellos balas.\nGeorgi Zhukov (1896&#8211;1974) Político, militar y mariscal de la Unión Soviética</item>
+        <!-- Groucho Marx -->
+        <item>Inteligencia militar son dos términos contradictorios.\nGroucho Marx (1890&#8211;1977) Actor, humorista y escritor estadounidense</item>
+        <!-- Harry S. Truman -->
+        <item>La guerra transfoma a los niños en hombres y a los hombres en bestias.\nHarry S. Truman (1884&#8211;1972) Trigésimo tercer presidente de los Estados Unidos</item>
+        <!-- Iósif Stalin -->
+        <item>No puedes hacer una revolución con guantes de seda.\nIósif Stalin (1878&#8211;1953) Presidente del Consejo de Ministros de la Unión Soviética</item>
+        <item>En el ejército soviético hace falta más valor para retirarse que para avanzar.\nIósif Stalin (1878&#8211;1953) Presidente del Consejo de Ministros de la Unión Soviética</item>
+        <item>¿Cuántas divisiones tiene el papa?\nIósif Stalin (1878&#8211;1953) Presidente del Consejo de Ministros de la Unión Soviética</item>
+        <item>Una muerte es una tragedia, un millón de muertes es una estadística.\nIósif Stalin (1878&#8211;1953) Presidente del Consejo de Ministros de la Unión Soviética</item>
+        <item>El destino baraja las cartas, nosotros las jugamos.\nIósif Stalin (1878&#8211;1953) Presidente del Consejo de Ministros de la Unión Soviética</item>
+        <item>En esta guerra los ingleses ponen el tiempo, los americanos el dinero y nosotros la sangre.\nIósif Stalin (1878&#8211;1953) Presidente del Consejo de Ministros de la Unión Soviética</item>
+        <!-- Isaac Asimov -->
+        <item>Sólo hay una guerra que puede permitirse el ser humano: la guerra contra su extinción.\nIsaac Asimov (1920&#8211;1992) Escritor y bioquímico soviético</item>
+        <!-- John Fitzgerald Kennedy -->
+        <item>La victoria tiene miles de padres, pero la derrota es huérfana.\nJohn Fitzgerald Kennedy (1917&#8211;1963) Trigésimo quinto presidente de los Estados Unidos</item>
+        <item>Perdona a tus enemigos pero nunca olvides sus nombres.\nJohn Fitzgerald Kennedy (1917&#8211;1963) Trigésimo quinto presidente de los Estados Unidos</item>
+        <!-- Joseph Goebbels -->
+        <item>Una mentira repetida mil veces se convierte en una realidad.\nJoseph Goebbels (1897&#8211;1945) Político alemán, ministro de propaganda de la Alemania nacionalsocialista</item>
+        <!-- Mihail Kalashnikov -->
+        <item>Mi vida es mi trabajo y mi trabajo es mi vida. Inventé este fusil de asalto para defender mi país.\nHoy en día estoy orgulloso que para muchos signifique un sinónimo de libertad.\nMijaíl Kaláshnikov, diseñador de armas ruso</item>
+        <!-- Napoleon Bonaparte -->
+        <item>Tres cosas son necesarias para hacer la guerra: dinero, dinero, dinero.\nNapoleon Bonaparte (1769&#8211;1821) Militar y gobernante francés</item>
+        <item>No luches demasiado con un enemigo, o terminarás enseñándole todo lo que sabes sobre el arte de la guerra.\nNapoleon Bonaparte (1769&#8211;1821) Militar y gobernante francés</item>
+        <item>El momento más peligroso llega con la victoria.\nNapoleon Bonaparte (1769&#8211;1821) Militar y gobernante francés</item>
+        <!-- Norman Cota -->
+        <item>Caballeros, estamos siendo asesinados en las playas. Vayamos tierra adentro, y seamos asesinados.\nNorman Cota (1893&#8211;1971) General del Ejército de los Estados Unidos</item>
+        <!-- George S. Patton -->
+        <item>Que Dios se apiade de mis enemigos por que yo no lo haré.\nGeorge S. Patton (1885&#8211;1945) General del Ejército de los Estados Unidos</item>
+        <item>El valor es aguantar el miedo un minuto más.\nGeorge S. Patton (1885&#8211;1945) General del Ejército de los Estados Unidos</item>
+        <item>El objetivo de la guerra no es morir por tu país, sino hacer que otro bastardo muera por el suyo.\nGeorge S. Patton (1885&#8211;1945) General del Ejército de los Estados Unidos</item>
+        <item>El miedo mata a más personas que las guerras.\nGeorge S. Patton (1885&#8211;1945) General del Ejército de los Estados Unidos</item>
+        <item>Avanza hasta el último cargador de municiones y hasta la última gota de combustible&#8230; ¡y entonces avanza a pie!\nGeorge S. Patton (1885&#8211;1945) General del Ejército de los Estados Unidos</item>
+        <item>Un buen plan hoy es mejor que uno perfecto mañana.\nGeorge S. Patton (1885&#8211;1945) General del Ejército de los Estados Unidos</item>
+        <!-- Platón -->
+        <item>Los muertos son los únicos que ven el final de la guerra.\nPlatón (427a.c.&#8211;347a.c.) Filósofo griego</item>
+        <!-- Robert Oppenheimer -->
+        <item>Al utilizar por primera vez este tipo de armas nos alineamos con los bárbaros de las primeras edades.\nRobert Oppenheimer (1904&#8211;1967) Físico estadounidense</item>
+        <!-- Sun Tzu -->
+        <item>El supremo arte de la guerra es doblegar al enemigo sin luchar.\nSun Tzu (772a.c.&#8211;481a.c.) General, estratega militar y filósofo de la antigua China</item>
+        <!-- Thomas Jefferson -->
+        <item>He visto lo bastante de una guerra para no desear volver a ver otra.\nThomas Jefferson (1743&#8211;1826) Tercer presidente de los Estados Unidos</item>
+        <!-- William Westmoreland -->
+        <item>Los militares no empiezan las guerras, son los políticos los que las empiezan.\nWestmoreland (1914&#8211;2005) General del Ejército estadounidense</item>
+        <!-- Winston Churchill -->
+        <item>Cuanto más atrás puedas mirar, más adelante verás.\nWinston Churchill (1874&#8211;1965) Político y hombre de estado británico</item>
+        <item>La política es más peligrosa que la guerra, porque en la guerra sólo se muere una vez.\nWinston Churchill (1874&#8211;1965) Político y hombre de estado británico</item>
+        <item>Nunca en el campo de los conflictos humanos, tantos le debieron tanto, a tan pocos.\nWinston Churchill (1874&#8211;1965) Político y hombre de estado británico</item>
+        <item>Sólo puedo prometeros sangre, sudor y lágrimas.\nWinston Churchill (1874&#8211;1965) Político y hombre de estado británico</item>
+        <item>Hitler sabe que tendrá que vencernos en esta isla o perderá la guerra.\nWinston Churchill (1874&#8211;1965) Político y hombre de estado británico</item>
+        <item>Esto no es el final. Ni si quiera el principio del final, pero quizá se trate del final del principio.\nWinston Churchill (1874&#8211;1965) Político y hombre de estado británico</item>
+        <item>Si me llego a enterar de que Hitler le declara la guerra al Diablo, yo enviaré un embajador al infierno el día siguiente.\nWinston Churchill (1874&#8211;1965) Político y hombre de estado británico</item>
+        <item>Hay solo una cosa peor que pelear con aliados…y es pelear sin ellos.\nWinston Churchill (1874&#8211;1965) Político y hombre de estado británico</item>
+        <item>Los americanos siempre harán lo correcto…una vez hayan agotado todas las alternativas.\nWinston Churchill (1874&#8211;1965) Político y hombre de estado británico</item>
+        <!-- Yamamoto -->
+        <item>Hemos despertado a un gigante dormido y le hemos obligado a hacer la guerra.\nYamamoto (1884&#8211;1943) Almirante y comandante de la Armada Imperial Japonesa</item>
+        <!-- Lema Navy SEALs EE.UU -->
+        <item>El único día fácil fue ayer.\nLema Navy SEALs EE.UU</item>
+        <item>El dolor es temporal, el orgullo dura toda la vida.\nLema Navy SEALs EE.UU</item>
+        <item>Cuanto mas sudor en tiempos de paz,menos sangre en tiempos de guerra.\nLema Navy SEALs EE.UU</item>
+        <!-- Lema 160 Night Stalkers -->
+        <item>La muerte espera en la oscuridad.\nLema 160 Night Stalkers</item>
+        <!-- Lema Marines -->
+        <item>Semper Fidelis.\nLema Marines</item>
+        <!-- Lema SS de Hitler -->
+        <item>Meine Ehre Heisst Treue (Mi honor es la lealtad).\nLema SS de Hitler</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,20 @@
+	// ===========================================================
+	// Fields
+	// ===========================================================
+
+	protected ITextureRegion mTextureRegion;
+	
+	// ===========================================================
+	// Getter & Setter
+	// ===========================================================
+
+	public ITextureRegion getTextureRegion() {
+		return this.mTextureRegion;
+	}
+
+	public void setTextureRegion(ITextureRegion pTextureRegion){
+             this.mTextureRegion = pTextureRegion;
+             this.onUpdateColor();
+             this.onUpdateVertices();
+             this.onUpdateTextureCoordinates();
+	}

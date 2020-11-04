@@ -1,0 +1,35 @@
+{
+    "root": {
+        "song_path": "music/music_bridge.ogg",
+        "weapons": [
+            {
+                "id": "m4a2",
+                "path": "sounds/weapons/sound_m4a2.ogg"
+            },
+            {
+                "id": "masada",
+                "path": "sounds/weapons/sound_masada.ogg"
+            },
+            {
+                "id": "m1911",
+                "path": "sounds/weapons/sound_m1911.ogg"
+            },
+            {
+                "id": "mp5",
+                "path": "sounds/weapons/sound_mp5.ogg"
+            },
+            {
+                "id": "m24",
+                "path": "sounds/weapons/sound_m24.ogg"
+            },
+            {
+                "id": "m249",
+                "path": "sounds/weapons/sound_m249.ogg"
+            },
+            {
+                "id": "grenade_launcher",
+                "path": "sounds/weapons/sound_m1911.ogg"
+            }
+        ]
+    }
+}

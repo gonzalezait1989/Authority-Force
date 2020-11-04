@@ -1,0 +1,164 @@
+{
+    "root": {
+    	"player_initial_posX" : 200,
+		"player_initial_posY" : 350,
+    	"level_start": [
+    		{
+                "name": "map_tutorial",
+                "armors": [{
+                        "id": "vest_light",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vest_mtv",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }],
+                "bonus_items": [],
+                "enemies": [],
+                "weapons": [
+                    {
+                        "id": "m4a2",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "grenade_launcher",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "masada",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+    	],
+        "198.0x463.0": [
+            {
+                "name": "map_tutorial",
+                "armors": [
+                {
+                        "id": "vest_light",
+                        "positions": [
+                            {
+                                "posX": 300,
+                                "posY": 1200
+                            }
+                        ]
+                    }
+                ],
+                "bonus_items": [
+                	{
+                        "id": "small_healthpack",
+                        "positions": [
+                            {
+                                "posX": 300,
+                                "posY": 1000
+                            }
+                        ]
+                    }
+                ],
+                "enemies": [],
+                "weapons": [
+                    {
+                        "id": "m24",
+                        "positions": [
+                            {
+                                "posX": 300,
+                                "posY": 1550
+                            }
+                        ]
+                    },
+                    {
+                        "id": "mp5",
+                        "positions": [
+                            {
+                                "posX": 625,
+                                "posY": 1550
+                            }
+                        ]
+                    },
+                    {
+                        "id": "m249",
+                        "positions": [
+                            {
+                                "posX": 950,
+                                "posY": 1550
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1310.0x1164.0": [
+            {
+                "name": "map_tutorial",
+                "armors": [],
+                "bonus_items": [],
+                "enemies": [
+                    {
+                        "id": "infected",
+                        "positions": [
+                            {
+                                "posX": 1800,
+                                "posY": 1600
+                            }
+                        ]
+                    },
+                    {
+                        "id": "boss",
+                        "positions": [
+                            {
+                                "posX": 1900,
+                                "posY": 1200
+                            }
+                        ]
+                    }
+                ],
+                "weapons": [
+                	{
+                        "id": "knife",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ak47",
+                        "positions": [
+                            {
+                                "posX": 0,
+                                "posY": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

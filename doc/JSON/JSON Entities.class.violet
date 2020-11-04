@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_07" class="java.beans.XMLDecoder">
+ <object class="com.horstmann.violet.ClassDiagramGraph">
+  <void method="addNode">
+   <object class="com.horstmann.violet.ClassNode">
+    <void property="attributes">
+     <void property="text">
+      <string>id_armors : String
+_ hits_left: Integer
+_ damage _reduction_bonus : Float</string>
+     </void>
+    </void>
+    <void property="name">
+     <void property="text">
+      <string>Armor</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double" id="Point2D$Double0">
+    <void class="java.awt.geom.Point2D$Double" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Point2D$Double0">
+       <void class="java.awt.geom.Point2D$Double" method="getField">
+        <string>y</string>
+        <void method="set">
+         <object idref="Point2D$Double0">
+          <void method="setLocation">
+           <double>512.385710036113</double>
+           <double>60.943382554610906</double>
+          </void>
+         </object>
+         <double>60.943382554610906</double>
+        </void>
+       </void>
+      </object>
+      <double>512.385710036113</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object class="com.horstmann.violet.ClassNode">
+    <void property="attributes">
+     <void property="text">
+      <string>id_bonus_items : String
+_ hp_bonus: Integer
+_ score_multiplier : Integer
+_ extra_ammo : Integer</string>
+     </void>
+    </void>
+    <void property="name">
+     <void property="text">
+      <string>Bonus Item</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double" id="Point2D$Double1">
+    <void class="java.awt.geom.Point2D$Double" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Point2D$Double1">
+       <void class="java.awt.geom.Point2D$Double" method="getField">
+        <string>y</string>
+        <void method="set">
+         <object idref="Point2D$Double1">
+          <void method="setLocation">
+           <double>1110.4396744610995</double>
+           <double>59.32179678461634</double>
+          </void>
+         </object>
+         <double>59.32179678461634</double>
+        </void>
+       </void>
+      </object>
+      <double>1110.4396744610995</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object class="com.horstmann.violet.ClassNode">
+    <void property="attributes">
+     <void property="text">
+      <string>id_bullets : String
+_ bullet_speed: Integer
+_ damage : Integer
+_ range : Integer</string>
+     </void>
+    </void>
+    <void property="name">
+     <void property="text">
+      <string>Bullet</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double" id="Point2D$Double2">
+    <void class="java.awt.geom.Point2D$Double" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Point2D$Double2">
+       <void class="java.awt.geom.Point2D$Double" method="getField">
+        <string>y</string>
+        <void method="set">
+         <object idref="Point2D$Double2">
+          <void method="setLocation">
+           <double>929.4396744610995</double>
+           <double>58.13258966961364</double>
+          </void>
+         </object>
+         <double>58.13258966961364</double>
+        </void>
+       </void>
+      </object>
+      <double>929.4396744610995</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object class="com.horstmann.violet.ClassNode">
+    <void property="attributes">
+     <void property="text">
+      <string>id_enemys : String
+_ hp: Integer
+_ movement_speed : Integer
+_ physical_attack_time : Integer
+_ given_score: Integer
+_ weapon : String</string>
+     </void>
+    </void>
+    <void property="name">
+     <void property="text">
+      <string>Enemy</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double" id="Point2D$Double3">
+    <void class="java.awt.geom.Point2D$Double" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Point2D$Double3">
+       <void class="java.awt.geom.Point2D$Double" method="getField">
+        <string>y</string>
+        <void method="set">
+         <object idref="Point2D$Double3">
+          <void method="setLocation">
+           <double>269.0</double>
+           <double>63.0</double>
+          </void>
+         </object>
+         <double>63.0</double>
+        </void>
+       </void>
+      </object>
+      <double>269.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object class="com.horstmann.violet.ClassNode">
+    <void property="attributes">
+     <void property="text">
+      <string>id_players : String
+_ hp: Integer
+_ movement_speed : Integer
+_ armor : Integer
+_ primary_weapon : String
+_ secondary_weapon : String
+_ character_texture : String
+_ character_face_texture : String</string>
+     </void>
+    </void>
+    <void property="name">
+     <void property="text">
+      <string>Player</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double" id="Point2D$Double4">
+    <void class="java.awt.geom.Point2D$Double" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Point2D$Double4">
+       <void class="java.awt.geom.Point2D$Double" method="getField">
+        <string>y</string>
+        <void method="set">
+         <object idref="Point2D$Double4">
+          <void method="setLocation">
+           <double>29.0</double>
+           <double>63.0</double>
+          </void>
+         </object>
+         <double>63.0</double>
+        </void>
+       </void>
+      </object>
+      <double>29.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object class="com.horstmann.violet.ClassNode">
+    <void property="attributes">
+     <void property="text">
+      <string>id_weapons : String
+_ bullets_left: Integer
+_ bullet_id : Integer</string>
+     </void>
+    </void>
+    <void property="name">
+     <void property="text">
+      <string>Weapon</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double" id="Point2D$Double5">
+    <void class="java.awt.geom.Point2D$Double" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Point2D$Double5">
+       <void class="java.awt.geom.Point2D$Double" method="getField">
+        <string>y</string>
+        <void method="set">
+         <object idref="Point2D$Double5">
+          <void method="setLocation">
+           <double>774.0072958061073</double>
+           <double>57.18655409460003</double>
+          </void>
+         </object>
+         <double>57.18655409460003</double>
+        </void>
+       </void>
+      </object>
+      <double>774.0072958061073</double>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

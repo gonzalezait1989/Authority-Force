@@ -1,0 +1,27 @@
+{
+    "root": {
+        "root": [
+            {
+                "name": "map_tutorial",
+                "next_map": "map_city",
+                "entities_definitions": "json/maps/map_entities_definitions/map_tutorial.json",
+                "map_sounds": "json/maps/map_sounds/map_tutorial.json",
+                "map_textures": "json/maps/map_textures/map_tutorial.json"
+            },
+            {
+                "name": "map_city",
+                "next_map": "map_bridge",
+                "entities_definitions": "json/maps/map_entities_definitions/map_city.json",
+                "map_sounds": "json/maps/map_sounds/map_city.json",
+                "map_textures": "json/maps/map_textures/map_city.json"
+            },
+            {
+                "name": "map_bridge",
+                "next_map": "MainMenu",
+                "entities_definitions": "json/maps/map_entities_definitions/map_bridge.json",
+                "map_sounds": "json/maps/map_sounds/map_bridge.json",
+                "map_textures": "json/maps/map_textures/map_bridge.json"
+            }
+        ]
+    }
+}

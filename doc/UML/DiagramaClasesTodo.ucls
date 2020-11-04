@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="org.devgru.authorityforce.constant.GeneralConstantsUtility" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/constant/GeneralConstantsUtility.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="310" width="257" x="6856" y="-11"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="2" language="java" name="org.devgru.authorityforce.entity.entityaction" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/entityaction" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="44" width="268" x="288" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="3" language="java" name="org.devgru.authorityforce.preferences.PreferencesManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/preferences/PreferencesManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="832" width="259" x="7483" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="org.devgru.authorityforce.manager.scene.MenuResourceManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager/scene/MenuResourceManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="490" width="304" x="10406" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="5" language="java" name="org.devgru.authorityforce.entity" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="202" x="596" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="6" language="java" name="org.devgru.authorityforce.constant.JsonFieldsConstantsUtility" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/constant/JsonFieldsConstantsUtility.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="886" width="282" x="838" y="-11"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="org.devgru.authorityforce.pool.BonusItemPool" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/pool/BonusItemPool.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="130" width="297" x="4093" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="org.devgru.authorityforce.pool.ArmorPool" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/pool/ArmorPool.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="130" width="275" x="3778" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="org.devgru.authorityforce.activity.VideoActivity" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/activity/VideoActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="292" width="201" x="1160" y="-11"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="org.devgru.authorityforce.entity.entityaction.IEnemyAction" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/entityaction/IEnemyAction.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="195" x="6172" y="3711"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <package id="11" language="java" name="org.devgru.authorityforce.manager" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="220" x="1401" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="12" language="java" name="org.devgru.authorityforce.manager.audio" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager/audio" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="253" x="1661" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="13" language="java" name="org.devgru.authorityforce.scene.menu.CharacterSelectionMenuScene" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/menu/CharacterSelectionMenuScene.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1102" width="329" x="7792" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="14" language="java" name="org.devgru.authorityforce.preferences" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/preferences" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="240" x="1954" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="15" language="java" name="org.devgru.authorityforce.entity.AFTrigger" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/AFTrigger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="130" width="306" x="5957" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="org.devgru.authorityforce.pool.AFGenericPool" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/pool/AFGenericPool.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="168" x="4448" y="1319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="org.devgru.authorityforce.audio.AudioPlayer" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/audio/AudioPlayer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="346" width="256" x="7997" y="1319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="18" language="java" name="org.devgru.authorityforce.pool" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/pool" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="195" x="2234" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="19" language="java" name="org.devgru.authorityforce.manager.GameManager" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager/GameManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="454" width="227" x="10366" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="org.devgru.authorityforce.preferences.SavedGamesManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/preferences/SavedGamesManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="292" width="259" x="7174" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="org.devgru.authorityforce.preferences.ASharedPreferencesManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/preferences/ASharedPreferencesManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="148" width="259" x="7483" y="1319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="org.devgru.authorityforce.dao.MapFluxDAO" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/dao/MapFluxDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="184" width="207" x="11177" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="23" language="java" name="org.devgru.authorityforce.scene.splash" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/splash" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="245" x="2469" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="24" language="java" name="org.devgru.authorityforce.entity.Armor" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/Armor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="256" width="384" x="5072" y="3711"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="25" language="java" name="org.devgru.authorityforce.entity.ACharacter.CharacterStatus" 
+    project="AuthorityForceActivity" file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/ACharacter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="148" width="148" x="6739" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <package id="26" language="java" name="org.devgru.authorityforce.scene.game" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/game" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="239" x="2754" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="27" language="java" name="org.devgru.authorityforce.dao.TextureDAO" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/dao/TextureDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="166" width="207" x="10643" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="28" language="java" name="org.devgru.authorityforce.constant.JsonFieldsConstantsUtility.SOUND_TYPE" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/constant/JsonFieldsConstantsUtility.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="130" width="156" x="838" y="915"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="29" language="java" name="org.devgru.authorityforce.pool.EnemyPool" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/pool/EnemyPool.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="148" width="304" x="4430" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="org.devgru.authorityforce.scene.menu.HelpMenuScene" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/menu/HelpMenuScene.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="814" width="329" x="8161" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="31" language="java" name="org.devgru.authorityforce.scene.menu" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/menu" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="241" x="3033" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="32" language="java" name="org.devgru.authorityforce.handler.AFGameHandler" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/handler/AFGameHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="238" width="222" x="6347" y="915"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="org.devgru.authorityforce.scene.menu.LoadingScene" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/menu/LoadingScene.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="472" width="329" x="8530" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="org.devgru.authorityforce.dao.EntityDAO" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/dao/EntityDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="382" width="321" x="6347" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="org.devgru.authorityforce.entity.ACharacter" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/ACharacter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="508" width="395" x="6739" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="org.devgru.authorityforce.scene.game.GameScene" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/game/GameScene.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="616" width="267" x="6347" y="1319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="37" language="java" name="org.devgru.authorityforce.scene" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="205" x="3314" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <enumeration id="38" language="java" name="org.devgru.authorityforce.entity.ACharacter.CharacterDirection" 
+    project="AuthorityForceActivity" file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/ACharacter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="274" width="189" x="6927" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="39" language="java" name="org.devgru.authorityforce.pool.BulletPool" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/pool/BulletPool.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="130" width="275" x="4774" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="org.devgru.authorityforce.scene.menu.MainMenuScene" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/menu/MainMenuScene.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="778" width="329" x="8899" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="org.devgru.authorityforce.entity.AMapObject" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/AMapObject.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="130" width="377" x="5089" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="org.devgru.authorityforce.entity.Enemy" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/Enemy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="274" width="389" x="5918" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="org.devgru.authorityforce.pool.AFMultiPool" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/pool/AFMultiPool.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="130" width="294" x="4133" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="org.devgru.authorityforce.activity.AuthorityForceActivity" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/activity/AuthorityForceActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="364" width="304" x="6609" y="915"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="org.devgru.authorityforce.entity.BonusItem" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/BonusItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="412" x="4620" y="3711"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="org.devgru.authorityforce.constant.AssetsConstantsUtility" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/constant/AssetsConstantsUtility.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="544" width="238" x="3559" y="-11"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="47" language="java" name="org.devgru.authorityforce.handler" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/handler" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="213" x="3837" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="48" language="java" name="org.devgru.authorityforce.constant.MainParameters" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/constant/MainParameters.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="148" width="207" x="6609" y="-11"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="org.devgru.authorityforce.scene.ABaseMenuScene" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/ABaseMenuScene.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="166" width="166" x="8899" y="1319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="org.devgru.authorityforce.constant.MenuConstantsUtility" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/constant/MenuConstantsUtility.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="724" width="258" x="4090" y="-11"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="org.devgru.authorityforce.manager.audio.AAudioResourceManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager/audio/AAudioResourceManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="265" x="11185" y="1319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="52" language="java" name="org.devgru.authorityforce.entity.entityaction.IPlayerAction" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/entityaction/IPlayerAction.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="195" x="5937" y="3711"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="53" language="java" name="org.devgru.authorityforce.manager.IResourceManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager/IResourceManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="76" width="156" x="10760" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="54" language="java" name="org.devgru.authorityforce.controller.SceneController" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/controller/SceneController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="436" width="284" x="8894" y="-11"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="org.devgru.authorityforce.entity.Weapon" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/Weapon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="238" width="401" x="5496" y="3711"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="56" language="java" name="org.devgru.authorityforce.settings" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/settings" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="217" x="4388" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="57" language="java" name="org.devgru.authorityforce.dao.MFXDAO" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/dao/MFXDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="220" width="216" x="11434" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="58" language="java" name="org.devgru.authorityforce.controller" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/controller" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="225" x="4645" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="59" language="java" name="org.devgru.authorityforce.settings.SettingsManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/settings/SettingsManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="112" width="153" x="5141" y="-11"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="60" language="java" name="org.devgru.authorityforce.dao" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/dao" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="191" x="4910" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="61" language="java" name="org.devgru.authorityforce.activity" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/activity" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="209" x="5334" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="62" language="java" name="org.devgru.authorityforce.manager.scene.GameResourceManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager/scene/GameResourceManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="544" width="329" x="9268" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="63" language="java" name="org.devgru.authorityforce.constant" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/constant" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="219" x="5583" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="64" language="java" name="org.devgru.authorityforce.util.EntityMessenger" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/util/EntityMessenger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="202" width="271" x="6407" y="3711"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="org.devgru.authorityforce.dao.AFileJSONDAO" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/dao/AFileJSONDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="188" x="11225" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="org.devgru.authorityforce.scene.menu.LoadGameScene" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/menu/LoadGameScene.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="742" width="329" x="9647" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="67" language="java" name="org.devgru.authorityforce.constant.GeneralConstantsUtility.MAP_ENTITY_TYPE" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/constant/GeneralConstantsUtility.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="201" x="3412" y="4007"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="68" language="java" name="org.devgru.authorityforce.scene.ABaseScene" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/ABaseScene.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="238" width="353" x="8894" y="915"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="org.devgru.authorityforce.entity.Bullet" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/Bullet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="328" width="408" x="5496" y="4007"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="org.devgru.authorityforce.scene.splash.SplashScene" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/splash/SplashScene.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="148" width="175" x="7268" y="1319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="71" language="java" name="org.devgru.authorityforce.util" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/util" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="189" x="5842" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="72" language="java" name="org.devgru.authorityforce.scene.menu.OptionsMenuScene" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/scene/menu/OptionsMenuScene.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1192" width="329" x="10016" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="org.devgru.authorityforce.manager.audio.MFXResourceManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager/audio/MFXResourceManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="184" width="198" x="10956" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="org.devgru.authorityforce.pool.WeaponPool" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/pool/WeaponPool.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="148" width="286" x="3452" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="75" language="java" name="org.devgru.authorityforce.constant.GeneralConstantsUtility.SceneType" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/constant/GeneralConstantsUtility.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="202" width="291" x="7875" y="915"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="76" language="java" name="org.devgru.authorityforce.entity.Player" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/entity/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="364" width="372" x="5506" y="3207"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="77" language="java" name="org.devgru.authorityforce.manager.scene" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager/scene" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="256" x="6071" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="78" language="java" name="org.devgru.authorityforce.manager.scene.ASceneResourcesManager" 
+    project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/manager/scene/ASceneResourcesManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="148" width="184" x="10427" y="1319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <package id="79" language="java" name="org.devgru.authorityforce.audio" project="AuthorityForceActivity" 
+    file="/AuthorityForceActivity/src/org/devgru/authorityforce/audio" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="44" width="202" x="6367" y="-11"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <association id="80">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="81" name="mEntitiesPosition"/>      
+      <multiplicity id="82" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="83">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="28"/>  
+  </nesting>  
+  <association id="84">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="85" name="INSTANCE"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="65"/>  
+  </generalization>  
+  <association id="88">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="89" name="mTriggers"/>      
+      <multiplicity id="90" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="92" name="INSTANCE"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="95" name="INSTANCE"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <bendpoint x="11194" y="1975"/>    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="98" name="mGameManager"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="101" name="mGameScene"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="103">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="68"/>  
+  </generalization>  
+  <association id="104">    
+    <end type="SOURCE" refId="76" navigable="false">      
+      <attribute id="105" name="mArmor"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="107">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="65"/>  
+  </generalization>  
+  <generalization id="108">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <association id="109">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="110" name="bonusItemPool"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="112">    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="113" name="INSTANCE"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="115">    
+    <bendpoint x="4081" y="1975"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="116">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="117" name="INSTANCE"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="119">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="41"/>  
+  </generalization>  
+  <nesting id="120">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="75"/>  
+  </nesting>  
+  <association id="121">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="122" name="mCurrentSceneType"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="124">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="125" name="mOptionMenuScene"/>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="127">    
+    <bendpoint x="6708" y="1975"/>    
+    <bendpoint x="6708" y="3207"/>    
+    <bendpoint x="6708" y="3711"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="128" name="mBullets"/>      
+      <multiplicity id="129" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="130">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="131" name="mGameManager"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="133">    
+    <bendpoint x="4457" y="1975"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <realization id="134">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="53"/>  
+  </realization>  
+  <generalization id="135">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <association id="136">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="137" name="INSTANCE"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="139">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="41"/>  
+  </generalization>  
+  <association id="140">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="141" name="INSTANCE"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <bendpoint x="6335" y="1975"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="144" name="mEntityDao"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <bendpoint x="6293" y="1975"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="147" name="mObjects"/>      
+      <multiplicity id="148" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="150" name="mSceneController"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="152">    
+    <bendpoint x="4589" y="3711"/>    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="41"/>  
+  </generalization>  
+  <association id="153">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="154" name="INSTANCE"/>      
+      <multiplicity id="155" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="156">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="157" name="mMainMenuScene"/>      
+      <multiplicity id="158" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="159">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="53"/>  
+  </realization>  
+  <generalization id="160">    
+    <end type="SOURCE" refId="70"/>    
+    <end type="TARGET" refId="68"/>  
+  </generalization>  
+  <generalization id="161">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="78"/>  
+  </generalization>  
+  <association id="162">    
+    <bendpoint x="11443" y="1975"/>    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="163" name="mMFXDAO"/>      
+      <multiplicity id="164" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="165">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="166">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="167" name="activity"/>      
+      <multiplicity id="168" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="169">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="170" name="mPreferencesManager"/>      
+      <multiplicity id="171" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="172">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="173" name="mGameScene"/>      
+      <multiplicity id="174" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="175">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="176" name="INSTANCE"/>      
+      <multiplicity id="177" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="178">    
+    <bendpoint x="4102" y="1975"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="179">    
+    <bendpoint x="10396" y="915"/>    
+    <bendpoint x="10396" y="1319"/>    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="180" name="mMenuResourceManger"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="182">    
+    <bendpoint x="8293" y="1319"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="183" name="mPreferencesManager"/>      
+      <multiplicity id="184" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="185">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <association id="186">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="187" name="bulletPool"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="189">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="68"/>  
+  </generalization>  
+  <association id="190">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="191" name="mMultiPool"/>      
+      <multiplicity id="192" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="193">    
+    <bendpoint x="3959" y="1975"/>    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <realization id="194">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <association id="195">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="196" name="mShootingDirection"/>      
+      <multiplicity id="197" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="198">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="199" name="mGameManager"/>      
+      <multiplicity id="200" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="201">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="65"/>  
+  </generalization>  
+  <association id="202">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="203" name="mBullet"/>      
+      <multiplicity id="204" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="205">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <generalization id="206">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="78"/>  
+  </generalization>  
+  <generalization id="207">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <association id="208">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="209" name="mEntityDAO"/>      
+      <multiplicity id="210" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="211">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <generalization id="212">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="65"/>  
+  </generalization>  
+  <generalization id="213">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="214">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="215" name="mMenuResourceManager"/>      
+      <multiplicity id="216" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="217">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="218" name="mGameResourceManger">        
+        <position height="15" width="125" x="9156" y="2174"/>      
+      </attribute>      
+      <multiplicity id="219" minimum="0" maximum="1">        
+        <position height="13" width="23" x="9244" y="2190"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="220">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="221" name="mCurrentScene"/>      
+      <multiplicity id="222" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="223">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="224" name="mCharacterDirection"/>      
+      <multiplicity id="225" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="226">    
+    <bendpoint x="6356" y="1975"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="227" name="mEntityDao"/>      
+      <multiplicity id="228" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="229">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="230" name="enemyPool"/>      
+      <multiplicity id="231" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="232">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="233" name="mCharacterSelectionMenuScene"/>      
+      <multiplicity id="234" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="235">    
+    <bendpoint x="6314" y="1975"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="236" name="mPlayer"/>      
+      <multiplicity id="237" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="238">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="239" name="mEntityType"/>      
+      <multiplicity id="240" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="67" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="241">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="242" name="mHelpMenuScene"/>      
+      <multiplicity id="243" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="244">    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <association id="245">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="246" name="INSTANCE"/>      
+      <multiplicity id="247" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="248">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <association id="249">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="250" name="INSTANCE"/>      
+      <multiplicity id="251" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="252">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="253" name="mLoadingScene"/>      
+      <multiplicity id="254" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="255">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="52"/>  
+  </realization>  
+  <association id="256">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="257" name="mCharacterStatus"/>      
+      <multiplicity id="258" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="259">    
+    <bendpoint x="4620" y="1975"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="260">    
+    <bendpoint x="9277" y="915"/>    
+    <bendpoint x="9277" y="1319"/>    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="261" name="mGameResourceManger"/>      
+      <multiplicity id="262" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="263">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="264" name="mAudioPlayer"/>      
+      <multiplicity id="265" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="266">    
+    <bendpoint x="10375" y="1319"/>    
+    <bendpoint x="10375" y="1975"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="267" name="mGameManager"/>      
+      <multiplicity id="268" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="269">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="41"/>  
+  </generalization>  
+  <association id="270">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="271" name="weaponPool"/>      
+      <multiplicity id="272" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="273">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <nesting id="274">    
+    <bendpoint x="3421" y="915"/>    
+    <bendpoint x="3421" y="1319"/>    
+    <bendpoint x="3421" y="1975"/>    
+    <bendpoint x="3421" y="3207"/>    
+    <bendpoint x="3421" y="3711"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="67"/>  
+  </nesting>  
+  <generalization id="275">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <association id="276">    
+    <bendpoint x="10641" y="915"/>    
+    <bendpoint x="10641" y="1319"/>    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="277" name="mMFXResourceManager"/>      
+      <multiplicity id="278" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="279">    
+    <end type="SOURCE" refId="76" navigable="false">      
+      <attribute id="280" name="mWeaponsEquiped"/>      
+      <multiplicity id="281" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="282">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="283" name="INSTANCE"/>      
+      <multiplicity id="284" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="285">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="286" name="mWeapon"/>      
+      <multiplicity id="287" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="288">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="289" name="mLoadGameMenuScene"/>      
+      <multiplicity id="290" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="291">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <association id="292">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="293" name="mCharacters"/>      
+      <multiplicity id="294" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="295">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="296" name="mTextureDao"/>      
+      <multiplicity id="297" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="298">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="299" name="mGameResourceManager">        
+        <position height="15" width="134" x="9131" y="2231"/>      
+      </attribute>      
+      <multiplicity id="300" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="301">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="302" name="armorPool"/>      
+      <multiplicity id="303" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

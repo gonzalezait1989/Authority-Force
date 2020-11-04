@@ -1,0 +1,29 @@
+{
+    "root": {
+        "small_healthpack": {
+            "hpBonus": 125,
+            "scoreMultiplier": 1,
+            "extraAmmo": 0
+        },
+        "big_healthpack": {
+            "hpBonus": 250,
+            "scoreMultiplier": 1,
+            "extraAmmo": 0
+        },
+        "score_multiplier_x2": {
+            "hpBonus": 0,
+            "scoreMultiplier": 2,
+            "extraAmmo": 0
+        },
+        "score_multiplier_x3": {
+            "hpBonus": 0,
+            "scoreMultiplier": 3,
+            "extraAmmo": 0
+        },
+        "ammo": {
+            "hpBonus": 0,
+            "scoreMultiplier": 1,
+            "extraAmmo": 30
+        }
+    }
+}

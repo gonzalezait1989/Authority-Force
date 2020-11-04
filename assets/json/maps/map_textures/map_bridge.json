@@ -1,0 +1,122 @@
+{
+    "root": {
+        "tmx_file": "tmx/map_bridge.tmx",
+        "img": "map_city.png",
+        "character_objects": [
+            {
+                "bitmap_sizeX": 1024,
+                "bitmap_sizeY": 1024,
+                "textures": [
+                    {
+                        "id": "m4a2",
+                        "path": "game/textures/character_objects/texture_m4a2.png"
+                    },
+                    {
+                        "id": "ak47",
+                        "path": "game/textures/character_objects/texture_m4a2.png"
+                    },
+                    {
+                        "id": "knife",
+                        "path": "game/textures/character_objects/texture_m4a2.png"
+                    },
+                    {
+                        "id": "masada",
+                        "path": "game/textures/character_objects/texture_masada.png"
+                    },
+                    {
+                        "id": "mp5",
+                        "path": "game/textures/character_objects/texture_mp5.png"
+                    },
+                    {
+                        "id": "m249",
+                        "path": "game/textures/character_objects/texture_m249.png"
+                    },
+                    {
+                        "id": "m1911",
+                        "path": "game/textures/character_objects/texture_m1911.png"
+                    },
+                    {
+                        "id": "m24",
+                        "path": "game/textures/character_objects/texture_m24.png"
+                    },
+                    {
+                        "id": "grenade_launcher",
+                        "path": "game/textures/character_objects/texture_grenade_launcher.png"
+                    },
+                    {
+                        "id": "ammo",
+                        "path": "game/textures/character_objects/texture_ammo.png"
+                    },
+                    {
+                        "id": "big_healthpack",
+                        "path": "game/textures/character_objects/texture_big_healthpack.png"
+                    },
+                    {
+                        "id": "score_multiplier_x2",
+                        "path": "game/textures/character_objects/texture_scorex2.png"
+                    },
+                    {
+                        "id": "score_multiplier_x3",
+                        "path": "game/textures/character_objects/texture_scorex3.png"
+                    },
+                    {
+                        "id": "vest_light",
+                        "path": "game/textures/character_objects/texture_vest_light.png"
+                    },
+                    {
+                        "id": "vest_tactical",
+                        "path": "game/textures/character_objects/texture_vest_tactical.png"
+                    },
+                    {
+                        "id": "vest_mtv",
+                        "path": "game/textures/character_objects/texture_vest_mtv.png"
+                    },
+                    {
+                    	"id": "standard_bullet",
+                    	"path": "game/textures/bullets/texture_standard_bullet.png"
+                    },
+                    {
+                    	"id": "fast_bullet",
+                    	"path": "game/textures/bullets/texture_fast_bullet.png"
+                    },
+                    {
+                        "id": "heavy_bullet",
+                        "path": "game/textures/bullets/texture_heavy_bullet.png"
+                    },
+                    {
+                    	"id": "m203_bullet",
+                    	"path": "game/textures/bullets/texture_m203_bullet.png"
+                    },
+                    {
+                        "id": "boss_bullet",
+                        "path": "game/textures/bullets/texture_boss_bullet.png"
+                    },
+                    {
+                        "id": "physic_attack_bullet",
+                        "path": "game/textures/bullets/texture_boss_bullet.png"
+                    }
+                ]
+            }
+        ],
+        "enemies": [
+            {
+                "bitmap_sizeX": 1024,
+                "bitmap_sizeY": 1024,
+                "textures": [
+                    {
+                        "id": "infected",
+                        "path": "game/textures/characters/texture_infected.png",
+                        "rows": 8,
+                        "columns": 8
+                    },
+                    {
+                        "id": "boss",
+                        "path": "game/textures/characters/texture_boss.png",
+                        "rows": 8,
+                        "columns": 8
+                    }
+                ]
+            }
+        ]
+    }
+}

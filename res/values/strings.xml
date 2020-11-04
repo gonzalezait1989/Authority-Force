@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Authority Force</string>
+
+    <!-- LITERAL -->
+    <string name="select_character">Selecciona un personaje</string>
+
+    <!-- BUTTONS TEXTS -->
+    <string name="btn_back">Atrás</string>
+    <string name="btn_new_game">Jugar</string>
+    <string name="btn_load_game">Cargar</string>
+    <string name="btn_help">Ayuda</string>
+    <string name="btn_credits">Créditos</string>
+    <string name="btn_options">Opciones</string>
+    <string name="btn_exit">Salir</string>
+    <string name="btn_delete_game">Borrar</string>
+    <string name="btn_general">General</string>
+    <string name="btn_weapons">Armas</string>
+    <string name="btn_armors">Blindaje</string>
+    <string name="btn_items">Objetos</string>
+
+    <!-- CHARACTER SELECTION SCREEN -->
+    <string name="grey_moses_name">Grey Moses</string>
+    <string name="striker_name">Striker</string>
+    <string name="history_header">Historia</string>
+    <string name="stats_header">Características</string>
+    <string name="grey_moses_stats">Vida: medio Velocidad: medio</string>
+    <string name="striker_stats">Vida: bajo Velocidad: alto</string>
+    <string name="grey_moses_history">Después de recorrer todos los océanos con la marina, decidí dar un giro a mi vida y me alisté en los SEALS. Tuve que superar la BUD\'S, una de las fases de entrenamiento más exigentes del mundo. Ya en los SEALS, participé en muchas operaciones en la guerra contra el terrorismo. Finalmente llegué a una triste conclusión; las guerras se hacen por intereses políticos y económicos. Todo perdió el sentido. Las guerras no deben hacerse por dinero, sino para solucionar situaciones irresolvibles pacificamente. Un día presenté una queja a mi comandante, él la ignoró, pero me propuso para ingresar en el DEVGRU. Así que tuve la oportunidad de pertenecer al grupo de asalto que consiguió eliminar al terrorista más buscado del siglo XXI. Una mañana, mientras me estaba preparando en mi jaula para ir al campo de tiro recibí una visita&#8230;</string>
+    <string name="striker_history">Saliendo del edificio central de la CIA me crucé con un Ranger del ejército. Tal impacto me causó, que esa misma noche tramité mi alistamiento. Me gradué en 1992 y pasé a formar parte del primer batallón del 75 Regimiento Ranger. Un día mientras conducía recordé lo que me dijo un Delta Force con el que hablé en el aeropuerto internacional de Mogadiscio. Unos días mas tarde solicité una plaza para realizar el curso de selección del CAG.Pasados 2 años, intenté acceder al Delta Force, pero fracasé debido a una recaída de una antigua lesión. Al año siguiente, ya recuperado, conseguí ingresar.Durante 7 años estuve destinado en Afganistan e Iraq como operador de la Delta Force. Dos años después de desvincularme del ejército, cuando trabajaba como profesor en la universidad de Stanford, un hombre con un parche en el ojo vino a verme&#8230;</string>
+
+    <!-- LOAD GAME SCREEN TEXT -->
+    <string name="load_game_header">Menú de Cargar Partida</string>
+    <string name="no_saved_games">No hay partidas guardadas</string>
+
+    <!-- OPTIONS SCREEN TEXT -->
+    <string name="options_ok">Aceptar</string>
+    <string name="options_header">Menú de Opciones</string>
+    <string name="options_game">Juego</string>
+    <string name="options_dificulty">Dificultad</string>
+    <string name="options_left_right_handed">Diestro-Zurdo</string>
+    <string name="options_sound">Sonido</string>
+    <string name="options_main_volume">Sonido Global</string>
+    <string name="options_music_volume">Sonido Música</string>
+    <string name="options_fx_volume">Sonido Efectos</string>
+    <string name="options_monitor">Monitor</string>
+    <string name="options_show_fps">Mostrar FPS</string>
+    <string name="options_show_cpu">Mostrar uso CPU</string>
+    <string name="options_system">Sistema</string>
+    <string name="options_flight_mode">Modo Avión</string>
+    <string name="options_brightness">Brillo</string>
+
+    <!-- HELP SCREEN TEXT -->
+    <string name="help_title">Menú de ayuda</string>
+    <string name="help_subtitle_weapons">Armas</string>
+    <string name="help_subtitle_armors">Blindaje</string>
+    <string name="help_subtitle_items">Objetos misceláneos</string>
+    <string name="help_weapons_description">Las armas otorgan mayor potencia de fuego a quien las porta. Dependiendo del arma, el jugador disparará mas rápido o hará mas daño.</string>
+    <string name="help_armors_description">Las armaduras otrogan protección a quien las porta. Dependiendo del armadura, el jugador recibirá menos cantidad de daño durante un número mayor de golpes.</string>
+    <string name="help_items_description">Los objetos miscelanios ayudan al personaje a proseguir en el juego. Un botiquin restablecerá la salud del jugador. Las botas aumentarán su velocidad de movimiento. La munición le dará mas capacidad de daño a su arma. Un multiplicador podrá modificar cualquier atributo, desde la puntuación que recibe el jugador hasta el daño que puede hacer.</string>
+
+    <!-- LOAD SCREEN -->
+    <string name="loading_text">Cargando&#8230;</string>
+
+</resources>
